@@ -4,11 +4,11 @@ ReadMe
 
 ### 发现历史
 
-![image-20240717140546623](.\images\image-20240717140546623.png)
+![image-20240717140546623](./images/image-20240717140546623.png)
 
 ### 配置管理
 
-![image-20240609194001151](.\images\image-20240609194001151.png)
+![image-20240609194001151](./images/image-20240609194001151.png)
 
 V2.0 ChangeLog:
 
@@ -24,15 +24,15 @@ V2.0 ChangeLog:
 
 ### 发现历史
 
-![image-20240609194257095](.\images\image-20240609194257095.png)
+![image-20240609194257095](./images/image-20240609194257095.png)
 
 发现匹配信息后,左上角发现历史会 buling~buling~的闪, 其实没啥用~~~
 
-![xd8](.\images\xd8-17211947285337.gif)
+![xd8](./images/xd8-17211947285337.gif)
 
 #### 层级扫描
 
-![image-20240717141013067](.\images\image-20240717141013067.png)
+![image-20240717141013067](./images/image-20240717141013067.png)
 
 自定义层级,最高为4层, 0 为无层级限制,有多少就扫多少
 
@@ -51,13 +51,13 @@ V2.0 ChangeLog:
 
 语法: [!]查询条件&&[!]查询条件  
 
-![xd8](.\images\xd8-17211931609895.gif)
+![xd8](./images/xd8-17211931609895.gif)
 
 ####　专项检查
 
 专项检查匹配值为配置管理中lab列数据
 
-![](.\images\xd8-17179338628335-17179338668456.gif)
+![](./images/xd8-17179338628335-17179338668456.gif)
 
 状态: Running 表示当前专项检查生效
 
@@ -77,7 +77,7 @@ mozilla,msn,firefox,office,bing,google,aliapp,qianxin,baidu,g-fox,csdn,fofa,zone
 
 在发现历史中显示状态码要求显示对象,逗号"," 间隔, 文本框中回车或[状态码过滤]按钮被点击后生效
 
-![xd8](.\images\xd8-17211945337876.gif)
+![xd8](./images/xd8-17211945337876.gif)
 
 
 
@@ -85,13 +85,13 @@ mozilla,msn,firefox,office,bing,google,aliapp,qianxin,baidu,g-fox,csdn,fofa,zone
 
 原字典区修改为按钮,双击后进入配置管理,也可手动点击配置管理标签进入配置管理
 
-![](.\images\xd8-17179337214333-17179337306584.gif)
+![](./images/xd8-17179337214333-17179337306584.gif)
 
 
 
 ### 配置管理
 
-![image-20240609200240087](.\images\image-20240609200240087-17179346355327.png)
+![image-20240609200240087](./images/image-20240609200240087-17179346355327.png)
 
 字典列表, 目前允许编辑列为 ,其他功能开发中
 
@@ -152,15 +152,15 @@ mozilla,msn,firefox,office,bing,google,aliapp,qianxin,baidu,g-fox,csdn,fofa,zone
 
 整体演示如下:
 
-![](.\images\xd8-17179356685958-17179356712789.gif)
+![](./images/xd8-17179356685958-17179356712789.gif)
 
 ##### 批量插入/修改
 
-![xd8](.\images\xd8-17211920671473.gif)
+![xd8](./images/xd8-17211920671473.gif)
 
 ##### 列表检索
 
-![xd8](.\images\xd8-17211957097578.gif)
+![xd8](./images/xd8-17211957097578.gif)
 
 
 
